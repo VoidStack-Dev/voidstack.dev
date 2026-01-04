@@ -33,10 +33,3 @@ Our goal? Build, learn, and share — together.
 👉 [https://voidstack-dev.github.io/voidstack.dev/](https://voidstack-dev.github.io/voidstack.dev/)
 
 ---
-
-## 🛠️ Setup Instructions
-
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/voidstack-dev/voidstack.dev.git
-   cd voidstack.dev
